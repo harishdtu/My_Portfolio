@@ -19,22 +19,7 @@ const projects = [
     github: "https://github.com",
     live: "https://preeminent-sunshine-b88e2b.netlify.app/"
   },
-  {
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce solution built with React, Node.js, and Stripe integration. Features include user authentication, product management, and real-time order tracking.",
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=800",
-    technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-    github: "https://github.com",
-    live: "https://demo.com"
-  },
-  {
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates. Includes features like drag-and-drop task organization, team collaboration, and progress tracking.",
-    image: "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&q=80&w=800",
-    technologies: ["React", "Firebase", "Tailwind CSS", "DnD Kit"],
-    github: "https://github.com",
-    live: "https://demo.com"
-  }
+ 
 ];
 
 const Projects = () => {
